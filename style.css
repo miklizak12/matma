@@ -4,6 +4,7 @@
 }
 body {
     font-family: montserrat;
+    text-align: center;
 }
 #oblicz{
   border: 1px solid black;
