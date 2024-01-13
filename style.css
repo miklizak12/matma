@@ -5,13 +5,13 @@
 body {
     font-family: montserrat;
 }
-#oblicz1{
+#oblicz{
   border: 1px solid black;
   border-radius: 25px;
   padding: 10px;
   font-size: 1em;
   font-family: montserrat;
 }
-#oblicz1:active{
+#oblicz:active{
     background-color: #939393;
 }
