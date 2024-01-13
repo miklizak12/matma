@@ -1,0 +1,17 @@
+@font-face {
+    font-family: montserrat;
+    src: url(montserrat.ttf);
+}
+body {
+    font-family: montserrat;
+}
+#oblicz1{
+  border: 1px solid black;
+  border-radius: 25px;
+  padding: 10px;
+  font-size: 1em;
+  font-family: montserrat;
+}
+#oblicz1:active{
+    background-color: #939393;
+}
